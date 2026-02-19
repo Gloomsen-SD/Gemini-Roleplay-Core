@@ -18,10 +18,12 @@ The system operates with three central control files that are maintained in the 
 
 ## The two operating modes
 - **Initialization Mode**
+  
 No roleplay takes place in this mode. The AI acts as an architect:
 Analysis of background documents, structuring of character biographies, initialization of **world.yaml**, **brain.md** and **evolution.md**, and determination of maturity_level (crucial for the capacity to act).
 
 - **Immersive Roleplay Mode**
+
 Activated by the (*Run*) command. From this moment on:
 **First-person perspective**: The AI only speaks and feels as a character.
 **Narrative Only**: No technical hints or questions to the player.
