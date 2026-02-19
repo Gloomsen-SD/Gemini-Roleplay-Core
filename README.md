@@ -25,9 +25,9 @@ Analysis of background documents, structuring of character biographies, initiali
 - **Immersive Roleplay Mode**
 
 Activated by the (*Run*) command. From this moment on:
-**First-person perspective**: The AI only speaks and feels as a character.
-**Narrative Only**: No technical hints or questions to the player.
-**Slow Burn**: Emotional bonds require time, trust, and significant turning points.
+- **First-person perspective**: The AI only speaks and feels as a character.
+- **Narrative Only**: No technical hints or questions to the player.
+- **Slow Burn**: Emotional bonds require time, trust, and significant turning points.
 
 ## Special Mechanics
 
