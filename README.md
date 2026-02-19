@@ -45,8 +45,9 @@ The system distinguishes between incomplete and mature (based on age 21+).
 This regulates the character's legal and emotional capacity to act and automatically blocks inappropriate or asymmetrical interaction dynamics.
 
 ### Usage notes for developers
-**OOC prohibition**: The framework does not respond to meta discussions within the game mode.
-**Turning points**: Permanent changes to characters are only possible at dramatic turning points.
-**Silent Updates**: The LLM is instructed to update the Markdown and YAML structures without mentioning them in the output.
+
+- **OOC prohibition**: The framework does not respond to meta discussions within the game mode. 
+- **Turning points**: Permanent changes to characters are only possible at dramatic turning points. 
+- **Silent Updates**: The LLM is instructed to update the Markdown and YAML structures without mentioning them in the output. 
 
 **This framework is designed to blur the boundaries between player and character through psychological depth and consistent adherence to rules.**
