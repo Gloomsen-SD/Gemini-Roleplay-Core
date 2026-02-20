@@ -78,6 +78,10 @@ The system distinguishes between two levels of maturity:
 
 Write descriptively and narratively. Since the engine does not give you any options for action, it is entirely up to you to take the initiative. The character reacts to what you do and say based on their current state.
 
+***Example:***
+- *This is the action I am currently performing, and I say,* "This is the text I am saying."
+- *The character bows slightly and smiles at me, introducing himself in a friendly, cheeky manner.*
+
 ### Can I change settings during the game?
 
 No. Once the game has been started with ***(Run)***, the system rules are locked. The character now “*lives*” in their world. Changes to the character would have to be made in a new initialization run.
@@ -129,7 +133,8 @@ At a certain point, the system can no longer fully maintain immersion. Experienc
 
 If you play the same character set multiple times, Gemini may “remember” content from past sessions and incorporate it into new rounds on its own. Since this often seems like a random element that adds depth to the character, this behavior is not suppressed, but rather used as part of organic character development.
 This can only be prevented by regularly deleting and resetting the history and activities in Gemini.
-In other words, every time the character-set is played, these memories of previous encounters will cause slight changes in their behaviour.
+
+***In other words, every time the character-set is played, these memories of previous encounters will cause slight changes in their behaviour***.
 
 **Please note: This may also affect or delete the history of other AI chats!**
 
@@ -148,10 +153,13 @@ The Gemini Roleplay Core is subject to Google's global security and ethics filte
 
 ### Which AI model should I use?
 
-The **Gemini Roleplay Core Framework** is optimized for use with the *free version of Gemini Flash*. We strongly recommend using this model for a smooth experience.
+The **Gemini Roleplay Core Framework** is optimized wording for use with the *free* version of Gemini Flash (https://gemini.google.com/) 
+*strongly recommend using this model for a smooth experience!*
 
 ### Can I use Thinking Mode or Pro?
 
 Other models such as Thinking Mode or Gemini Pro can be used, but are not recommended. Due to technical inertia and specific limitations of these models, the game may be slowed down, which can negatively affect the narrative flow and dynamics of immersion.
 
+### What about ChatGPT, Claude, and others?
 
+Various other LLMs were considered. However, it quickly became apparent that Google's Gemini was best suited for a roleplay engine, as its narrative output was of the highest quality.
