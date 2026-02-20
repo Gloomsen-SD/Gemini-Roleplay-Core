@@ -45,6 +45,11 @@ The engine analyzes your specifications and creates three core files:
 
 Yes, the framework can also be used for fantasy settings. However, the engine's primary focus is on realism. This means that actions, psychological reactions, and the physical world follow logical and comprehensible rules, even if magical elements exist.
 
+### specific ethnicity filter?
+
+When a specific ethnicity or ancestry is specified for a character, the AI uses this “filter” to authentically incorporate cultural influences, specific behaviors, or linguistic nuances of the chosen origin into the character's nature and reactions. This serves to increase character depth and credibility.
+It is important to understand that AI draws on its trained knowledge for this purpose. Due to the nature of the training data, inherent biases, and technical limitations, the representation may deviate from reality. A complete, error-free cultural adaptation is not possible due to the nature of the system.
+
 ### Why is the character responding so cautiously?
 
 The framework utilizes slow burn and a high bonding threshold. Trust and closeness must be earned over time. The character acts according to their internal logic, not the player's desires.
