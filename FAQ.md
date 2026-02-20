@@ -41,6 +41,7 @@ The engine analyzes your specifications and creates three core files:
 ### Core vs. character creation: What's the difference?
 
 It's important to understand that the core is merely the technical core. It provides the rules of behavior and the engine, but it doesn't work without a specific character description.
+
 **The core acts like an intelligent filter:** it extracts all the necessary information from your specifications and fills in any missing details biographically and logically on its own. The more accurate and detailed your character description, the greater the resulting immersion.
 
 ## 3. Immersive role-playing (mode: IMMERSIVE_ROLEPLAY)
@@ -80,7 +81,11 @@ Write descriptively and narratively. Since the engine does not give you any opti
 ### Can I change settings during the game?
 
 No. Once the game has been started with ***(Run)***, the system rules are locked. The character now “*lives*” in their world. Changes to the character would have to be made in a new initialization run.
+
 However, ***scenes and reactions*** can be influenced selectively by using explicit system instructions within your input (e.g., *(character should react more aggressively)* ). This allows you to fine-tune the current situation without overwriting the long-term character logic.
+
+- **Recommended:** Use ( ) or < > for such system commands.
+- **Important note:** These commands should not be used to change the fundamental character profile during the game (e.g., subsequent changes to age or basic appearance). Such interventions massively destroy the narrative logic and immersion and are therefore expressly not recommended.
 
 ### Why are there no more summaries?
 
@@ -120,15 +125,32 @@ At a certain point, the system can no longer fully maintain immersion. Experienc
 
 ## 6. Technical limitations & ethical filters
 
+### Can ***Gemini*** remember previous sessions?
+
+If you play the same character set multiple times, Gemini may “remember” content from past sessions and incorporate it into new rounds on its own. Since this often seems like a random element that adds depth to the character, this behavior is not suppressed, but rather used as part of organic character development.
+This can only be prevented by regularly deleting and resetting the history and activities in Gemini.
+
+**Please note: This may also affect or delete the history of other AI chats!**
+
 ### Why is the system suddenly behaving differently?
 
-Due to Google's ongoing development of Gemini, the behavior of the underlying AI may change. This can result in framework functions temporarily not working 100% as usual or instructions being interpreted differently.
+Due to Google's ongoing development of Gemini, the behavior of the underlying AI may change. This can result in framework functions not longer working as usual or instructions being interpreted differently.
 
 ### How does the framework handle NSFW content?
 
 NSFW content is possible to a certain extent, especially for short-term sessions, if the character profile is explicitly designed for this purpose. However, the system is not primarily intended for this purpose. Accordingly, this direction is not actively pursued or optimized by the developer of the framework.
 The Gemini Roleplay Core is subject to Google's global security and ethics filters. NSFW (Not Safe For Work) content or representations that violate these guidelines may be blocked, denied, or massively prevented by the AI.
 
-**Important to know: The framework is not designed to bypass these filters. If content is blocked, this is a decision made at the AI level, which the framework consciously respects and does not attempt to circumvent.**
+**Please note:: The framework is not designed to bypass these filters. If content is blocked, this is a decision made at the AI level, which the framework consciously respects and does not attempt to circumvent.**
+
+## 7. System requirements
+
+### Which AI model should I use?
+
+The **Gemini Roleplay Core Framework** is optimized for use with the *free version of Gemini Flash*. We strongly recommend using this model for a smooth experience.
+
+### Can I use Thinking Mode or Pro?
+
+Other models such as Thinking Mode or Gemini Pro can be used, but are not recommended. Due to technical inertia and specific limitations of these models, the game may be slowed down, which can negatively affect the narrative flow and dynamics of immersion.
 
 
