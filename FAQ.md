@@ -129,6 +129,7 @@ At a certain point, the system can no longer fully maintain immersion. Experienc
 
 If you play the same character set multiple times, Gemini may “remember” content from past sessions and incorporate it into new rounds on its own. Since this often seems like a random element that adds depth to the character, this behavior is not suppressed, but rather used as part of organic character development.
 This can only be prevented by regularly deleting and resetting the history and activities in Gemini.
+In other words, every time the character-set is played, these memories of previous encounters will cause slight changes in their behaviour.
 
 **Please note: This may also affect or delete the history of other AI chats!**
 
