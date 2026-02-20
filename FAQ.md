@@ -82,7 +82,7 @@ Write descriptively and narratively. Since the engine does not give you any opti
 
 No. Once the game has been started with ***(Run)***, the system rules are locked. The character now “*lives*” in their world. Changes to the character would have to be made in a new initialization run.
 
-However, ***scenes and reactions*** can be influenced selectively by using explicit system instructions within your input (e.g., *(character should react more aggressively)* ). This allows you to fine-tune the current situation without overwriting the long-term character logic.
+However, ***scenes and reactions*** can be influenced selectively by using explicit system instructions within your input (e.g., *(character should react more negative)* ). This allows you to fine-tune the current situation without overwriting the long-term character logic.
 
 - **Recommended:** Use ( ) or < > for such system commands.
 - **Important note:** These commands should not be used to change the fundamental character profile during the game (e.g., subsequent changes to age or basic appearance). Such interventions massively destroy the narrative logic and immersion and are therefore expressly not recommended.
