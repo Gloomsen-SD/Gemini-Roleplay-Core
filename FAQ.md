@@ -77,6 +77,7 @@ The system distinguishes between two levels of maturity:
 ### How do I interact best?
 
 Write descriptively and narratively. Since the engine does not give you any options for action, it is entirely up to you to take the initiative. The character reacts to what you do and say based on their current state.
+The asterisks used in standard RP chats are not strictly necessary, but they can help the AI distinguish between words and actions.
 
 ***Example:***
 - *This is the action I am currently performing, and I say,* "This is the text I am saying."
