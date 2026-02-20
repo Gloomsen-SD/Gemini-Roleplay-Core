@@ -89,6 +89,10 @@ Summaries or meta comments would break the immersion. Gemini Roleplay Core is de
 
 ## 5. Troubleshooting
 
+### The files (World, Brain, Evolution) are not created.
+
+If no files appear in the editor during initialization, please check whether the ***Canvas*** tool has been activated in Gemini Chat. Without this tool, the engine cannot generate the required documents, which means that the framework can only be used to a limited extent.
+
 ### The character does not respond to my attempts to approach them.
 
 Check the “Trust” level in **WORLD.YAML** (behind the scenes). If trust is too low or tension is too high, the internal self-protection mechanism will block interaction. Try to build the relationship more slowly.
