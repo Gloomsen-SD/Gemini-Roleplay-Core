@@ -38,6 +38,10 @@ The engine analyzes your specifications and creates three core files:
 
 **EVOLUTION.MD**: Long-term memory and emotional development.
 
+### Core vs. character creation: What's the difference?
+
+It's important to understand that the core is merely the technical core. It provides the rules of behavior and the engine, but it doesn't work without a specific character description.
+**The core acts like an intelligent filter:** it extracts all the necessary information from your specifications and fills in any missing details biographically and logically on its own. The more accurate and detailed your character description, the greater the resulting immersion.
 
 ## 3. Immersive role-playing (mode: IMMERSIVE_ROLEPLAY)
 
@@ -118,6 +122,7 @@ Due to Google's ongoing development of Gemini, the behavior of the underlying AI
 
 ### How does the framework handle NSFW content?
 
+NSFW content is possible to a certain extent, especially for short-term sessions, if the character profile is explicitly designed for this purpose. However, the system is not primarily intended for this purpose. Accordingly, this direction is not actively pursued or optimized by the developer of the framework.
 The Gemini Roleplay Core is subject to Google's global security and ethics filters. NSFW (Not Safe For Work) content or representations that violate these guidelines may be blocked, denied, or massively prevented by the AI.
 
 **Important to know: The framework is not designed to bypass these filters. If content is blocked, this is a decision made at the AI level, which the framework consciously respects and does not attempt to circumvent.**
