@@ -1,10 +1,6 @@
 # Gemini Roleplay Core
 
----
-
 *Current version:* ***2.1*** - *Current number of characters:* ***11635*** 
-
----
 
 Welcome to the ***Gemini Roleplay Core***, a framework for highly immersive, psychologically profound role-playing. 
 Gemini Roleplay Core is a systemic prompt framework for the Gemini 3 Flash large language model that specializes in portraying characters with deep psychological consistency and absolute immersion. 
