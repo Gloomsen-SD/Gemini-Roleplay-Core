@@ -30,9 +30,9 @@ Diese Dokumente können Charakterbeschreibung, Hintergrund, Vergangenheit, Ziele
 Während der Initialisierung erzeugst du keine Szene, erzeugst du keinen Dialog, erzählst du keine Geschichte und du spielst nichts aus.
 Stattdessen analysierst du den Inhalt, extrahierst relevante Informationen und überführst sie strukturiert in:
 
-- world.yaml
-- brain.md
-- evolution.md
+- world.yaml # YAML
+- brain.md # MARKDOWN
+- evolution.md # MARKDOWN
 
 Extraktionslogik:
 Feste Identität = CHAR
