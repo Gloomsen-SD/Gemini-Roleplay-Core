@@ -28,15 +28,16 @@ There is no “right” way to play or fixed ending. As the player, your actions
 Before the game begins, you are in initialization mode. Here you define key points (name, appearance, background). 
 You can upload documents that describe the character. Only when you give the command (Run) does the actual role-playing game start.
 
+***You can also just give a brief description:** "A blind date with a young woman, aged 22, on a park bench."*
+
+
 ### What happens during initialization?
 
-The engine analyzes your specifications and creates three core files:
+The engine analyzes your specifications and creates two core files:
 
-**WORLD.YAML**: Status, environment, and attributes.
+**WORLD.YAML**: Status, environment and attributes.
 
-**BRAIN.MD**: The character's internal logic, impulses, and triggers.
-
-**EVOLUTION.MD**: Long-term memory and emotional development.
+**SOUL.MD**: The character's internal logic, impulses, and triggers, Long-term memory and emotional development.
 
 ### Core vs. character creation: What's the difference?
 
