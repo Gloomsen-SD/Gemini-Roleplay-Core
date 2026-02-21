@@ -107,6 +107,12 @@ If no files appear in the editor during initialization, please check whether the
 
 Check the “Trust” level in **WORLD.YAML** (behind the scenes). If trust is too low or tension is too high, the internal self-protection mechanism will block interaction. Try to build the relationship more slowly.
 
+### When I specify an action, the character becomes fixated on the topic, becomes euphoric, and cannot be stopped.
+
+Try to use words to slow the character down, to get them to hold back a little. This can only be done in InSpeech.
+
+***Example:** "Calm down, it's not important right now."*
+
 ### The engine gives me technical feedback or leaves the role.
 
 This can have two causes:
