@@ -20,6 +20,12 @@ You experience the story purely from the character's perspective.
 No. It is an open story with no predefined route or scripted events. 
 There is no “right” way to play or fixed ending. As the player, your actions alone determine the direction the game takes. The world and the character react organically to your impulses.
 
+### Why is the Gemini Roleplay Core prompt in German?
+
+German is just the author's native language. The German-language prompt is fully functional. An English version is usually delivered a few days later.
+
+***note:** If possible, the prompt should be used in English, as the AI understands and implements this even better.*
+
 
 ## 2. Initialization mode
 
