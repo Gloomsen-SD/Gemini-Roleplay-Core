@@ -2,7 +2,7 @@
 
 ---
 
-*Current version: ***2.1*** - *Current number of characters: ***11635*** 
+*Current version:* ***2.1*** - *Current number of characters:* ***11635*** 
 
 ---
 
